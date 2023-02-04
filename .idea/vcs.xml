@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/AppliGC" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/INF3995/docs/inf3995" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/INF3995/projet-pilote-cli" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/all/AppliGC" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/all/INF3995/docs/inf3995" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/all/INF3995/projet-pilote-cli" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
